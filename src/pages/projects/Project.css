@@ -1,0 +1,18 @@
+.Project{
+    padding-bottom: 25px;
+}
+
+.Project .card{
+    margin-top: 25px !important;
+    color: white;
+    background-color: #2d3436;
+    background-image: linear-gradient(315deg, #2d3436 0%, #000000 74%);
+}
+
+.Project .card .card-header{
+    border-bottom: 2px solid white;
+}
+
+.Project .card p{
+    text-align: justify;
+}

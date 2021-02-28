@@ -1,38 +1,58 @@
-.App {
-  text-align: center;
+.App{
+    color: white;
+    background-color: #2d3436;
+    background-image: linear-gradient(315deg, #2d3436 0%, #000000 74%);
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.home-textarea{
+    padding: 225px 100px;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.main-heading{
+    margin:0px;
+    font-size: 3.5rem;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.horizontal-line{
+    border: 2px solid white;
+    margin: 25px 0px;
 }
 
-.App-link {
-  color: #61dafb;
+.sub-heading{
+    text-transform: uppercase;
+    font-size: 0.9rem;
+    font-weight: bold;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.main-button{
+    min-width: 250px;
+    margin-top:10px;
+    padding: 10px !important;
+    text-transform: uppercase;
+    font-weight: bold !important;
+}
+
+.counter .row .col{
+    padding: 0px;
+}
+
+.counter-body{
+    color: white;
+    background-color: #2d3436;
+    background-image: linear-gradient(315deg, #2d3436 0%, #000000 74%);
+    text-align: center;
+    font-size: 2.5rem;
+}
+
+.counter-title{
+    font-size: 1.5rem;
+    font-weight: bolder;
+    text-transform: uppercase;
+    margin: 0;
+}
+
+.counter-number{
+    font-size: 1.5rem;
+    margin: 0;
+    font-weight: bold;
 }

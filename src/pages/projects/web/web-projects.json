@@ -1,0 +1,111 @@
+{
+  "name": "Web Projects",
+  "skills": [
+    {
+      "skill-name": "HTML",
+      "expertise": "97"
+    },
+    {
+      "skill-name": "CSS",
+      "expertise": "82"
+    },
+    {
+      "skill-name": "Javascript",
+      "expertise": "77"
+    },
+    {
+      "skill-name": "Node js",
+      "expertise": "78"
+    },
+    {
+      "skill-name": "PHP",
+      "expertise": "92"
+    },
+    {
+      "skill-name": "Python Flask",
+      "expertise": "68"
+    },
+    {
+      "skill-name": "Java Spring",
+      "expertise": "72"
+    },
+    {
+      "skill-name": "Restfull APIS",
+      "expertise": "88"
+    },
+    {
+      "skill-name": "Hosting / Cloud Services",
+      "expertise": "86"
+    },
+    {
+      "skill-name": "React Js",
+      "expertise": "86"
+    },
+    {
+      "skill-name": "Angular JS",
+      "expertise": "67"
+    },
+    {
+      "skill-name": "Python Django",
+      "expertise": "77"
+    },
+    {
+      "skill-name": "SQL",
+      "expertise": "92"
+    },
+    {
+      "skill-name": "Firebase",
+      "expertise": "70"
+    },
+    {
+      "skill-name": "Mongodb",
+      "expertise": "74"
+    }
+  ],
+  "projects": [
+    {
+      "project-name": "PROFILE CARD",
+      "description": "This is my profile card containing some of my key information like - contact info, important links, and my github information.",
+      "project-type": "solo",
+      "technologies": "HTML, CSS, JS",
+      "lines-of-code": "160",
+      "shared-on-github": true,
+      "github-url": "https://github.com/dhruvp4u/profile-card",
+      "has-live-link": true,
+      "live-link": "https://dhruvp4u.github.io/profile-card/"
+    },
+    {
+      "project-name": "COMING SOON",
+      "description": "This is a coming soon project, this project contains some elements like - creating a page loader, a timer of new projects.",
+      "project-type": "group: collaboration with siddhi",
+      "technologies": "HTML, CSS, JS",
+      "lines-of-code": "327",
+      "shared-on-github": true,
+      "github-url": "https://github.com/dhruvp4u/coming-soon",
+      "has-live-link": true,
+      "live-link": "https://dhruvp4u.github.io/coming-soon/"
+    },
+    {
+      "project-name": "WEATHER APP",
+      "description": "This is a weather app built in React JS, it uses open-weather API to access the current weather of the city name entered.",
+      "project-type": "group: collaboration with siddhi",
+      "technologies": "React JS",
+      "lines-of-code": "17.3K",
+      "shared-on-github": true,
+      "github-url": "https://github.com/dhruvp4u/weather-app",
+      "has-live-link": true,
+      "live-link": "https://dhruvp4u.github.io/weather-app/"
+    },
+    {
+      "project-name": "MY PROJECTS",
+      "description": "This is a React JS app which keeps track of the projects which are build by me, this is in the hope to land me a awesome job.",
+      "project-type": "solo",
+      "technologies": "React JS",
+      "lines-of-code": "38.1K",
+      "shared-on-github": true,
+      "github-url": "https://github.com/dhruvp4u/my-projects",
+      "has-live-link": true,
+      "live-link": "https://dhruvp4u.github.io/my-projects/"
+    }
+  ]
+}

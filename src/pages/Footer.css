@@ -1,0 +1,35 @@
+.Footer{
+    background: black;
+    color: white;
+    padding: 5px 0px;
+}
+
+.footer-nav{
+    padding: 1rem 1rem !important;
+    text-align: center !important;
+    display: block !important;
+}
+
+.footer-nav ul{
+    list-style: none;
+    display: inline;
+    padding: 0px;
+}
+
+.footer-nav ul li{
+    display: inline;
+    margin: 0px 15px;
+}
+
+.footer-nav ul li a{
+    font-size: 1.2rem;
+    color: white;
+}
+
+.footer-copyrights{
+    text-align: center;
+}
+
+.footer-copyrights h5{
+    font-size: 1rem !important;
+}

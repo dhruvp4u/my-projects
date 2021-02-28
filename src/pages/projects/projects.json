@@ -1,0 +1,16 @@
+{
+  "project-types": [
+    {
+      "type-name": "WEB",
+      "sub-heading": "Web Development Projects",
+      "description": "Web development is the work involved in developing a Web site for the Internet or an intranet. Web development can range from developing a simple single static page of plain text to complex Web-based Internet applications.",
+      "url": "/my-projects/web-projects"
+    },
+    {
+      "type-name": "MOBILE",
+      "sub-heading": "Mobile App Development Projects",
+      "description": "Mobile App development is the work involved in developing a application which runs on all types of mobile platform like IOS, Android.Web site for the Internet or an intranet. Mobile Apps can range from being static or dynamic.",
+      "url": "/my-projects/mobile-projects"
+    }
+  ]
+}

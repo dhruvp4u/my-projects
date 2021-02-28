@@ -1,0 +1,30 @@
+.Web{
+    padding-bottom: 25px;
+}
+
+.Web .card{
+    margin-top: 25px !important;
+    color: white;
+    background-color: #2d3436;
+    background-image: linear-gradient(315deg, #2d3436 0%, #000000 74%);
+}
+
+.Web .card .card-header{
+    border-bottom: 2px solid white;
+}
+
+.web-skills-moreinfo{
+    font-size: 1rem;
+    margin: 25px 0;
+    list-style: none;
+}
+
+.web-skills-moreinfo li p{
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.web-skills-moreinfo li p span .progress .progress-bar{
+    background: black;
+    border: 2px solid white;
+}

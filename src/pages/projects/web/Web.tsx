@@ -26,7 +26,7 @@ const createProjects = (web_projects:any) => {
         }
 
         projects.push(
-            <Col xs={12} md={6} lg={4}>
+            <Col xs={12} md={6} lg={6} xl={4}>
                 <Card bg="primary" text="white">
                     <Card.Header>{project_name}</Card.Header>
                     <Card.Body>
@@ -41,7 +41,7 @@ const createProjects = (web_projects:any) => {
                             <Col xs={12} md={12} lg={6}>
                                 {(project_shared) ?
                                     (
-                                        <Button href={project_url} target={"_blank"} className={"main-button"} variant="outline-light">view on github</Button>
+                                        <Button href={project_url} target={"_blank"} className={"main-button"} variant="outline-light">view github</Button>
                                     ):
                                     ("")
                                 }

@@ -57,3 +57,71 @@
     margin: 0;
     font-weight: bold;
 }
+
+@media (min-width: 481px) and (max-width: 767px) {
+    .home-textarea{
+        padding: 75px 25px;
+    }
+
+    .main-heading{
+        margin:0px;
+        font-size: 1rem;
+    }
+
+    .horizontal-line{
+        border: 2px solid white;
+        margin: 15px 0px;
+    }
+
+    .sub-heading{
+        text-transform: uppercase;
+        font-size: 0.7rem;
+        font-weight: bold;
+    }
+
+    .counter-body{
+        font-size: 2.5rem;
+    }
+
+    .counter-title{
+        font-size: 1.5rem;
+    }
+
+    .counter-number{
+        font-size: 1.5rem;
+    }
+}
+
+@media (min-width: 320px) and (max-width: 480px) {
+    .home-textarea{
+        padding: 75px 25px;
+    }
+
+    .main-heading{
+        margin:0px;
+        font-size: 2rem;
+    }
+
+    .horizontal-line{
+        border: 2px solid white;
+        margin: 15px 0px;
+    }
+
+    .sub-heading{
+        text-transform: uppercase;
+        font-size: 0.7rem;
+        font-weight: bold;
+    }
+
+    .counter-body{
+        font-size: 1.5rem;
+    }
+
+    .counter-title{
+        font-size: 1rem;
+    }
+
+    .counter-number{
+        font-size: 1rem;
+    }
+}

@@ -40,7 +40,7 @@ function Counters(){
                         <Card.Body className={"counter-body"}>
                             <FaBriefcase/>
                             <p className={"counter-title"}>Experience</p>
-                            <p className={"counter-number"}>2</p>
+                            <p className={"counter-number"}>2 YEARS</p>
                         </Card.Body>
                     </Card>
                 </Col>
